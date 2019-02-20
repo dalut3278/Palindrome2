@@ -20,7 +20,7 @@ public class Palindrome2 {
         //get the word from the user
         phrase = JOptionPane.showInputDialog(
                 "Words that are the same forwards and backwards are called palindromes.\n"
-                + "This program determines if a phrase is a palindrome.\n\n"
+                + "This program counts how many words are palindromes.\n\n"
                 + "Enter a phrase:");
 
         //Reverse the phrase
